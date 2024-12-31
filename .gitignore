@@ -1,0 +1,7 @@
+.Safespace 
+Env
+Results_old
+.Workspace/data
+.Workspace/path_test.py
+.Workspace/test.py
+.Workspace/yolo11n.pt
