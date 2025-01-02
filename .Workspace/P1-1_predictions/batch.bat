@@ -1,0 +1,9 @@
+python P1-1_predictions\predict.py -G 0 -M "G:\HSLU\.Workspace\P1_catforg-eval\runs\lr2\weights\best.pt" -N lr2 -I pred_img
+python P1-1_predictions\predict.py -G 0 -M "G:\HSLU\.Workspace\P1_catforg-eval\runs\lr3\weights\best.pt" -N lr3 -I pred_img
+python P1-1_predictions\predict.py -G 0 -M "G:\HSLU\.Workspace\P1_catforg-eval\runs\lr4\weights\best.pt" -N lr4 -I pred_img
+python P1-1_predictions\predict.py -G 0 -M "G:\HSLU\.Workspace\P1_catforg-eval\runs\lr5\weights\best.pt" -N lr5 -I pred_img
+python P1-1_predictions\predict.py -G 0 -M "G:\HSLU\.Workspace\P1_catforg-eval\runs\lr6\weights\best.pt" -N lr6 -I pred_img
+python P1-1_predictions\predict.py -G 0 -M "G:\HSLU\.Workspace\P1_catforg-eval\runs\lr7\weights\best.pt" -N lr7 -I pred_img
+python P1-1_predictions\predict.py -G 0 -M "G:\HSLU\.Workspace\P1_catforg-eval\runs\lr8\weights\best.pt" -N lr8 -I pred_img
+python P1-1_predictions\predict.py -G 0 -M "G:\HSLU\.Workspace\P1_catforg-eval\runs\lr9\weights\best.pt" -N lr9 -I pred_img
+python P1-1_predictions\predict.py -G 0 -M "G:\HSLU\.Workspace\P1_catforg-eval\runs\lr10\weights\best.pt" -N lr10 -I pred_img

@@ -1,0 +1,14 @@
+Random state: 59
+train:
+	.all\img_5_0043_jpg.rf.abe5ed10914f032377543f8abd4b5fec.jpg
+	.all\img_5_0015_jpg.rf.2c41e6246219c5849cb6eddaa041dfce.jpg
+	.all\img_5_0023_jpg.rf.5a53c5745fa0f1e52cbcd12d23a0ff19.jpg
+	.all\img_5_0037_jpg.rf.7b71e948e7327ee197433b26e5662345.jpg
+test:
+	.all\img_5_0011_jpg.rf.ea09090c1682c3d2285d7b19551ca1ce.jpg
+	.all\img_5_0027_jpg.rf.9e877012b04b2477af59a03884d89725.jpg
+val:
+	.all\img_5_0019_jpg.rf.bc2c7af79dc30e35d53af6bdac0626a6.jpg
+	.all\img_5_0000_jpg.rf.7af44b9533fdf4ae1c4a2e319fde127c.jpg
+	.all\img_5_0007_jpg.rf.11752df59ca978524b226aeb6b790c70.jpg
+	.all\img_5_0031_jpg.rf.cf89d22b9728ef81582aa9bd97c1be85.jpg
