@@ -1,0 +1,2 @@
+Gleich wie P3_coco-mix, aber ohne TUC-C, da das vorherige Projekt immer bei diesem Teil des TUC Datensatzen einige Bilder nicht gefunden hat obwohl sie vorhanden waren
+-> Hat sich herausgestellt, dass (wahrscheinlich) nicht der Datensatz das Problem war, sondern die Anzahl der Worker.

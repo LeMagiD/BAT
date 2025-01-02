@@ -1,0 +1,15 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/] 
+path:  G:\HSLU\.Workspace
+train: ['data/TUC-A/images/train', 'data/TUC-B/images/train', 'data/TUC-C/images/train']
+val: ['data/TUC-A/images/val', 'data/TUC-B/images/val', 'data/TUC-C/images/val']
+test: ['data/TUC-A/images/test', 'data/TUC-B/images/test', 'data/TUC-C/images/test']
+
+# Keypoints
+kpt_shape: [17,3]
+
+# Wird  verwendet, falls das Bild gespiegelt wird. Dann ist zB elbowLeft gespiegelt = elbowRight
+flip_idx: [0, 2, 1, 4, 3, 6, 5, 8, 7, 10, 9, 12, 11, 14, 13, 16, 15]
+
+# Class Dict
+names:
+    0: person
